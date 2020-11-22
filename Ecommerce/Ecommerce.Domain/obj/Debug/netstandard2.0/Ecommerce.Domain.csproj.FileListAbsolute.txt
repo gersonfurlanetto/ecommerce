@@ -1,0 +1,9 @@
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\bin\Debug\netstandard2.0\Ecommerce.Domain.deps.json
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\bin\Debug\netstandard2.0\Ecommerce.Domain.dll
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\bin\Debug\netstandard2.0\Ecommerce.Domain.pdb
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netstandard2.0\Ecommerce.Domain.csprojAssemblyReference.cache
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netstandard2.0\Ecommerce.Domain.AssemblyInfoInputs.cache
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netstandard2.0\Ecommerce.Domain.AssemblyInfo.cs
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netstandard2.0\Ecommerce.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netstandard2.0\Ecommerce.Domain.dll
+C:\workspace\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netstandard2.0\Ecommerce.Domain.pdb

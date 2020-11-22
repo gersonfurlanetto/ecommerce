@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p4VRSNT3q9VAQ8QzD4H77W5gJ5KpqJSOgy13K106hUVmA9vTkADlXaJtGBPwKNy4Ke1pcTQTheqdCoRDiMvdiA==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\Ecommerce\\Ecommerce\\Ecommerce.Application\\Ecommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerson.furlanetto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gerson.furlanetto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
